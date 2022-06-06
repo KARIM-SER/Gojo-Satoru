@@ -29,13 +29,12 @@ global.ig = 'https://github.com/KARIM-SER'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/KARIM-SER/Gojo-Satoru'
 global.myweb = 'https://instagram.com/karim_ser_?igshid=YmMyMTA2M2Y='
-global.packname = '╭─➤ 𝗜𝗡𝗙𝗢 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥 »
+global.packname = Notori-X 
 
-│❖ ᴄʀᴇᴀᴛᴇʀ: Notori-X
 
-│❖ ᴡʜ𝐬ᴛᴘ :𝐰𝐚.𝐦𝐞/𝟑𝟏𝟗𝟕𝟎𝟏𝟎𝟐𝟓𝟗𝟔𝟐𝟒
 
-╰─────────────➤'
+
+
 global.author = ' ī.am K҉A҉R҉I҉M҉ ҉s҉e҉r'
 global.sessionName = 'session'
 global.prefa = [''.']
