@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+918075927661']
-global.premium = ['+918975927661']
-global.ownernomer = '+918075927661'
+global.owner = ['918075927661']
+global.premium = ['918975927661']
+global.ownernomer = '918075927661'
 global.ownername = ' ī.am K҉A҉R҉I҉M҉ ҉s҉e҉r'
 global.botname = 'Notori-X V-1'
 global.footer = '©Team Notori-X.'
